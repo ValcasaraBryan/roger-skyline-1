@@ -4,10 +4,10 @@ netmask /30  255.255.255.252: done
 publickey                   : done
 port ssh non 22          150: done
 User root no ssh            : done
-rules firewall              : 
+rules firewall              : done
 DOS                         : done
 scanport                    : done
 stop service no used        : done
 script upgrade              : done
 script modify crontab       : done
-                            : 7 / 12
+                            : 12 / 12
